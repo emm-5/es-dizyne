@@ -20,7 +20,7 @@ if (flutterVersionName == null) flutterVersionName = '1.0'
 
 android {
     namespace "com.esdizyne.app"
-    compileSdk 34
+    compileSdk 35
     ndkVersion "25.1.8937393"
 
     compileOptions {
