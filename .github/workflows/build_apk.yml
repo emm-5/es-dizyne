@@ -22,3 +22,4 @@ jobs:
         with:
           name: ESDizyne-APK
           path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 30
