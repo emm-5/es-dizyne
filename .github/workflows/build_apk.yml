@@ -1,7 +1,5 @@
 name: Build ES Dizyne APK
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
 jobs:
   build:
